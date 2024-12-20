@@ -1,10 +1,25 @@
-# Hi there, I'm PoyBoi! 👋
+<div align="center">
+  <h1>👻 Welcome to PoyBoi's Corner 🐦‍⬛</h1>
+</div>
 
-![Profile views](https://komarev.com/ghpvc/?username=PoyBoi&color=green)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/>
+</div>
 
 ## About Me
 
-I'm a passionate developer with a keen interest in software development, open-source contributions, and continuous learning. I enjoy solving complex problems and collaborating with others to create impactful projects.
+<div align="left">
+  AI Developer
+</div>
+
+<div align="center">
+  Music Producer
+</div>
+
+<div align="right">
+  This took me way too long to set up
+</div>
+
 
 - 🌱 I’m currently learning advanced algorithms and data structures.
 - 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
@@ -26,6 +41,10 @@ I'm a passionate developer with a keen interest in software development, open-so
 ## Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyBoi&layout=compact&theme=radical)
+
+## Past Year "Un"Wrapped
+
+![alt text](git-wrapped-PoyBoi(1).png)
 
 ## Projects
 

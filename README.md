@@ -6,6 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/>
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
+
 ## About Me
 
 <div align="left">

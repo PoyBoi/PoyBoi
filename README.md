@@ -4,11 +4,25 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/>
+  
+  ![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
+  
 </div>
 
-![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
+<div align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
+    alt="PoyBoi's GitHub stats" 
+    style="display: inline-block; margin-right: 10px;" />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PoyBoi&theme=dark)](https://git.io/streak-stats)
+  <a href="https://git.io/streak-stats">
+    <img 
+      src="https://github-readme-streak-stats.herokuapp.com?user=PoyBoi&theme=dark"
+      alt="GitHub Streak" 
+      style="display: inline-block;" />
+  </a>
+</div>
+
 
 ## About Me
 
@@ -39,8 +53,6 @@
 - **DevOps:** Docker, Kubernetes, CI/CD, AWS
 
 ## GitHub Stats
-
-![PoyBoi's GitHub stats](https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical)
 
 ## Top Languages
 

@@ -19,17 +19,17 @@
 
   <hr />
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
-    alt="PoyBoi's GitHub stats" 
-    style="display: inline-block; margin-right: 10px;" />
-
   <a href="https://git.io/streak-stats">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=PoyBoi&theme=dark"
       alt="GitHub Streak" 
       style="display: inline-block;" />
   </a>
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
+    alt="PoyBoi's GitHub stats" 
+    style="display: inline-block; margin-right: 10px;" />
 </div>
 
 <div align="center">

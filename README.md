@@ -7,6 +7,8 @@
   
   <h3> Profile Views </h3>
 
+  <hr />
+
   ![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
   
 </div>
@@ -14,6 +16,8 @@
 <div align="center">
 
   <h3> Github Stats </h3>
+
+  <hr />
 
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
@@ -33,7 +37,7 @@
 
   <hr />
 
-  🤖 AI/Python Dev, Music Producer, DJ 🎛️
+  🤖 AI Engineer, Python Dev, Music Producer, DJ 🎛️
 </div>
 
 <!-- ## Skills

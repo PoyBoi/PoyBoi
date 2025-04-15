@@ -3,13 +3,18 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/>
+  <!-- <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/> -->
   
+  <h3> Profile Views </h3>
+
   ![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
   
 </div>
 
 <div align="center">
+
+  <h3> Github Stats </h3>
+
   <img 
     src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
     alt="PoyBoi's GitHub stats" 
@@ -23,29 +28,15 @@
   </a>
 </div>
 
-
-## About Me
-
-<div align="left">
-  AI Developer
-</div>
-
 <div align="center">
-  Music Producer
+  <h3> About Me </h3>
+
+  <hr />
+
+  🤖 AI/Python Dev, Music Producer, DJ 🎛️
 </div>
 
-<div align="right">
-  This took me way too long to set up
-</div>
-
-
-- 🌱 I’m currently learning advanced algorithms and data structures.
-- 👯 I’m looking to collaborate on open-source projects and innovative software solutions.
-- 🤔 I’m looking for help with contributing to large-scale open-source projects.
-- 💬 Ask me about web development, Python, JavaScript, and DevOps.
-- 📫 How to reach me: [Email](mailto:your-email@example.com) | [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-
-## Skills
+<!-- ## Skills
 
 - **Programming Languages:** Python, JavaScript, C++
 - **Web Development:** HTML, CSS, React, Node.js, Django
@@ -76,4 +67,4 @@ Here are some of my favorite projects:
 - [Twitter](https://twitter.com/your-twitter)
 - [Personal Website](https://your-website.com)
 
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems!
+⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems! -->

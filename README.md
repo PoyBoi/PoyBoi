@@ -19,17 +19,29 @@
 
   <hr />
 
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
+    alt="PoyBoi's GitHub stats" 
+    style="display: inline-block; margin-right: 10px;" />
+
   <a href="https://git.io/streak-stats">
     <img 
       src="https://github-readme-streak-stats.herokuapp.com?user=PoyBoi&theme=dark"
       alt="GitHub Streak" 
       style="display: inline-block;" />
   </a>
+</div>
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
-    alt="PoyBoi's GitHub stats" 
-    style="display: inline-block; margin-right: 10px;" />
+<div align="center">
+
+  <hr />
+
+  ### <img src="./images/cyberpunk-2077.gif">
+
+  ###### <u> N̴̜͗̀̓ȩ̷̳̦̝̄̎̓v̸͖͒̌̑̈́̈͌ě̵͍̺̯̙̲̓̏̇r̴̯̞͔͑ ̷̆̾̈͜F̴͙̝͚̂̒͝à̷̰͔̤̖̟͙̊͑͂̕d̴̥͋ë̴̫͔̙̙̗̜̈́ ̴̝̮̼̜̱̀͌͘Ả̴̡̱̆w̸̖̫̿̿͌̈́̽̿ạ̶̼͋̍y̸͇̽͝ ̶̗̆̄.̸̫̤̘̂͆͗̈́̿̚.̸͕̣̼͂̍̎.̵̛̖̝̽̈̅̚ </u>
+
+  <hr />
+
 </div>
 
 <div align="center">

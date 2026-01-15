@@ -24,12 +24,8 @@
     alt="PoyBoi's GitHub stats" 
     style="display: inline-block; margin-right: 10px;" />
 
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=PoyBoi&theme=dark"
-      alt="GitHub Streak" 
-      style="display: inline-block;" />
-  </a>
+  [![GitHub Streak](https://streak-stats.demolab.com?user=PoyBoi&theme=synthwave)](https://git.io/streak-stats)
+  
 </div>
 
 <div align="center">

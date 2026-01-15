@@ -5,7 +5,7 @@
 <div align="center">
   <!-- <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/> -->
   
-  <h3> Profile Views </h3>
+  <!-- <h3> Profile Views </h3> -->
 
   <hr />
   

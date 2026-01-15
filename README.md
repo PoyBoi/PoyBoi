@@ -8,8 +8,6 @@
   <h3> Profile Views </h3>
 
   <hr />
-
-  ![Visitor Count](https://profile-counter.glitch.me/PoyBoi/count.svg)
   
 </div>
 
@@ -18,11 +16,6 @@
   <h3> Github Stats </h3>
 
   <hr />
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=PoyBoi&show_icons=true&theme=radical"
-    alt="PoyBoi's GitHub stats" 
-    style="display: inline-block; margin-right: 10px;" />
 
   [![GitHub Streak](https://streak-stats.demolab.com?user=PoyBoi&theme=synthwave)](https://git.io/streak-stats)
   

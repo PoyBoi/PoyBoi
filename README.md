@@ -15,9 +15,6 @@
 
 </div>
 
-
-> 
-
 <div align="center">
 
 <img src="./images/ffd700_thin_2(1).png">
@@ -60,8 +57,6 @@
 
 </div>
 
-> 
-
 <div align="center">
 
 <img src="./images/ffd700_thin_2(1).png">
@@ -73,3 +68,7 @@
 
 <img src="./images/ffd700_thin_2(1).png">
 
+<!--<img src="./images/photomode_20032026_084150.png">-->
+<img src="./images/photomode_13032026_010120.png"> 
+
+<img src="./images/ffd700_thin_2(1).png">

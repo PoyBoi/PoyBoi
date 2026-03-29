@@ -1,76 +1,67 @@
 <div align="center">
-  <h1>👻 Welcome to PoyBoi's Corner 🐦‍⬛</h1>
+  <h1>Parv Sharma // PoyBoi</h1>
+  <p><strong>AI Engineer | Python Developer | LLM Specialist</strong></p>
 </div>
 
+> 
+
 <div align="center">
-  <!-- <img src="https://komarev.com/ghpvc/?username=PoyBoi&color=green" alt="Profile views"/> -->
+
+## GitHub Analytics
   
-  <!-- <h3> Profile Views </h3> -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=PoyBoi&theme=dark)](https://git.io/streak-stats)
 
-  <hr />
-  
-<!-- </div> -->
-
-<div align="center">
-
-  <h3> Github Stats </h3>
-
-  <hr />
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=PoyBoi&theme=synthwave)](https://git.io/streak-stats)
-  
-</div>
-
-<div align="center">
-
-  <hr />
-
-  ### <img src="./images/cyberpunk-2077.gif">
-
-  <!-- ###### <u> N̴̜͗̀̓ȩ̷̳̦̝̄̎̓v̸͖͒̌̑̈́̈͌ě̵͍̺̯̙̲̓̏̇r̴̯̞͔͑ ̷̆̾̈͜F̴͙̝͚̂̒͝à̷̰͔̤̖̟͙̊͑͂̕d̴̥͋ë̴̫͔̙̙̗̜̈́ ̴̝̮̼̜̱̀͌͘Ả̴̡̱̆w̸̖̫̿̿͌̈́̽̿ạ̶̼͋̍y̸͇̽͝ ̶̗̆̄.̸̫̤̘̂͆͗̈́̿̚.̸͕̣̼͂̍̎.̵̛̖̝̽̈̅̚ </u> -->
-  ###### <u> .̶͓̠̝̔̂͒́̚͘.̶͖̏̔̈.̷̤̀ͅ ̷̥̩̤̇N̸͈͍͋e̸̘̥͉̊̐ͅv̴̹̖̲̒̒͊͝͝é̷͙̀̏̓̾̕r̸̲̟̳͙̾͆ ̷͕͓͙͇̦̌̍́F̷͖̋́̈́͐͗ạ̷̟̻̥̳̕͜͝d̴̟̜̒̏e̷͚͕̻̿̊͜ ̵͈͍̦̝͙͆͋Ȧ̴̧̱̙̱w̷̱̮̲̆͂̊͝á̶̳̜̳͐̃͠ỵ̵̨̥͎̼̹̀̇͗̀͊̊ ̶̡̛̭̰̒͒.̷̨̯͉̗̭͚͘.̴̧͍̹̩̹̥̀́̈́̋́̐.̶̙̦͓̝̓ͅ  </u>
-
-  <hr />
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyBoi&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
+> 
+
 <div align="center">
-  <h3> About Me </h3>
 
-  <hr />
+## Technical Stack
 
-  🤖 AI Engineer, Python Dev, Music Producer, DJ 🎛️
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**LLM & Generative AI**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Transformers](https://img.shields.io/badge/Transformers-FFA500?style=for-the-badge&logoColor=white)
+
+**ML/AI Frameworks**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+**Vector & Databases**
+
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-003366?style=for-the-badge&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
+
 </div>
 
-<!-- ## Skills
+> 
 
-- **Programming Languages:** Python, JavaScript, C++
-- **Web Development:** HTML, CSS, React, Node.js, Django
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **DevOps:** Docker, Kubernetes, CI/CD, AWS
+<div align="center">
 
-## GitHub Stats
+## Connect
 
-## Top Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PoyBoi&layout=compact&theme=radical)
-
-## Past Year "Un"Wrapped
-
-![alt text](git-wrapped-PoyBoi(1).png)
-
-## Projects
-
-Here are some of my favorite projects:
-
-- [Project 1](https://github.com/PoyBoi/project1) - Brief description of project 1.
-- [Project 2](https://github.com/PoyBoi/project2) - Brief description of project 2.
-- [Project 3](https://github.com/PoyBoi/project3) - Brief description of project 3.
-
-## Connect with Me
-
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter](https://twitter.com/your-twitter)
-- [Personal Website](https://your-website.com)
-
-⚡ Fun fact: I love exploring new technologies and applying them to solve real-world problems! -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv--sharma/)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/poyboi_)

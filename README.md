@@ -3,7 +3,7 @@
   <p><strong>AI Engineer | Python Developer | LLM Specialist</strong></p>
 </div>
 
-> 
+<img src="./images/ffd700_thin_2.png">
 
 <div align="center">
 

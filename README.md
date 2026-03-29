@@ -3,7 +3,7 @@
   <p><strong>AI Engineer | Python Developer | LLM Specialist</strong></p>
 </div>
 
-<img src="./images/ffd700_thin_2.png">
+<img src="./images/ffd700_thin_2(1).png">
 
 <div align="center">
 
@@ -15,9 +15,12 @@
 
 </div>
 
+
 > 
 
 <div align="center">
+
+<img src="./images/ffd700_thin_2(1).png">
 
 ## Technical Stack
 
@@ -61,7 +64,12 @@
 
 <div align="center">
 
+<img src="./images/ffd700_thin_2(1).png">
+
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parv--sharma/)
 [![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/poyboi_)
+
+<img src="./images/ffd700_thin_2(1).png">
+
